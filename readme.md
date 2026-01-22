@@ -11,11 +11,10 @@ coming soon
 </video>   -->
 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 420px; margin: 0 auto;">
-  <video src="https://github.com/user-attachments/assets/4fed74b4-f9d2-45dd-b763-21a49b68927a" controls style="width: 100%;"></video>
-  <video src="https://github.com/user-attachments/assets/6cafb483-d371-44c1-8695-c8c60bc54283" controls style="width: 100%;"></video>
+<div style="text-align: center;">
+  <video src="https://github.com/user-attachments/assets/4fed74b4-f9d2-45dd-b763-21a49b68927a" controls width="200" style="display: inline-block; margin: 5px;"></video>
+  <video src="https://github.com/user-attachments/assets/6cafb483-d371-44c1-8695-c8c60bc54283" controls width="200" style="display: inline-block; margin: 5px;"></video>
 </div>
-
 
 
 
