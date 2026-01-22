@@ -3,9 +3,23 @@ coming soon
 演示视频:  
 ---
 
-
-
 <table>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/4fed74b4-f9d2-45dd-b763-21a49b68927a"
+             controls width="300"></video><br>
+      <b>Baseline (YOLOv8-Pose)</b>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/6cafb483-d371-44c1-8695-c8c60bc54283"
+             controls width="300"></video><br>
+      <b>Ours</b>
+    </td>
+  </tr>
+</table>
+
+
+<!-- <table>
   <tr>
     <td>
       <video src="https://github.com/user-attachments/assets/4fed74b4-f9d2-45dd-b763-21a49b68927a"
@@ -24,7 +38,7 @@ coming soon
              controls width="300"></video>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
