@@ -1,0 +1,21 @@
+com.tencent.blazeposencnn
+array cpugpu_array
+array size_array
+drawable bg_stop_button
+drawable bg_translucent_capsule
+drawable gradient_top_shadow
+id buttonSelectCrush
+id buttonSelectPullup
+id buttonSelectPushup
+id buttonSelectSitup
+id buttonSelectStopcount
+id cameraview
+id configLayout
+id count
+id modeButtonsLayout
+id spinnerCPUGPU
+id spinnerModel
+id ui_container
+layout main
+string app_name
+style ActionButtonStyle

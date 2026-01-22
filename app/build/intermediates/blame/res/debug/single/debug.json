@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_translucent_capsule.xml.flat",
+        "source": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\res\\drawable\\bg_translucent_capsule.xml"
+    },
+    {
+        "merged": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_top_shadow.xml.flat",
+        "source": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\res\\drawable\\gradient_top_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_stop_button.xml.flat",
+        "source": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\res\\drawable\\bg_stop_button.xml"
+    }
+]

@@ -1,0 +1,15 @@
+# ninja log v5
+8	69	790438427	CMakeFiles/blazeposencnn.dir/filter/low_pass_filter.cpp.o	d3e91730a8f371be
+21	487	790438427	CMakeFiles/blazeposencnn.dir/filter/landmark_smoothing_filter.cpp.o	273daa67e715fffc
+23	119	790438427	CMakeFiles/blazeposencnn.dir/filter/time_stamp.cpp.o	44b20fa01b0aa15f
+26	232	790438427	CMakeFiles/blazeposencnn.dir/filter/one_euro_filter.cpp.o	10e98db0b073c6df
+12	544	790438427	CMakeFiles/blazeposencnn.dir/ndkcamera.cpp.o	b63821e767efa3e9
+30	299	790438427	CMakeFiles/blazeposencnn.dir/filter/relative_velocity_filter.cpp.o	1dcefe526970dbea
+17	567	790438427	CMakeFiles/blazeposencnn.dir/landmark.cpp.o	dc329db50a6cd838
+2	524	790609770	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	6f57606f45bf897a
+1	730	790609582	CMakeFiles/blazeposencnn.dir/blazepose.cpp.o	bff9d7f4c56788dc
+524	782	790609771	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/x86/libblazeposencnn.so	ee4e615da7a1891e
+2	541	790609801	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	6f57606f45bf897a
+541	803	790609801	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/x86/libblazeposencnn.so	ee4e615da7a1891e
+1	539	790609837	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	6f57606f45bf897a
+539	799	790609837	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/x86/libblazeposencnn.so	ee4e615da7a1891e

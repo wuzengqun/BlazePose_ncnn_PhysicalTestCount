@@ -1,0 +1,3 @@
+C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/.cxx/cmake/debug/x86_64/CMakeFiles/blazeposencnn.dir
+C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir

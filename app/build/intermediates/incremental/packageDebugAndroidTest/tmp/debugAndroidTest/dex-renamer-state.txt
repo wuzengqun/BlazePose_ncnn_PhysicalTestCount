@@ -1,0 +1,4 @@
+#Wed Nov 20 10:07:58 CST 2024
+base.0=C\:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

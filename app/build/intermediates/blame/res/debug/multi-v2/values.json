@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "359",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "908"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,2",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,55",
+                        "endColumns": "-1,-1,58",
+                        "endOffsets": "-1,-1,109"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,300",
+                        "endLines": "5,10,11",
+                        "endColumns": "19,19,58",
+                        "endOffsets": "159,295,354"
+                    }
+                }
+            ]
+        }
+    ]
+}

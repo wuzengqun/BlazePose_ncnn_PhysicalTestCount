@@ -1,0 +1,101 @@
+{
+  "stringTable": {
+    "0": "C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android24 --sysroot=C:/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dblazeposencnn_EXPORTS -IC:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/src/main/jni/filter -IC:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/src/main/jni -isystem C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/src/main/jni/ncnn-20220216-android-vulkan/x86/include/ncnn -isystem C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O3 -DNDEBUG -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\abis.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "blazeposencnn-Release-x86": {
+      "buildCommand": "C:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\.cxx\\cmake\\release\\x86\" blazeposencnn",
+      "buildType": "release",
+      "toolchain": "3852329895",
+      "abi": "x86",
+      "artifactName": "blazeposencnn",
+      "files": [
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\blazeposencnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\blazepose.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\landmark.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\filter\\landmark_smoothing_filter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\filter\\low_pass_filter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\filter\\one_euro_filter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\filter\\relative_velocity_filter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\filter\\time_stamp.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libblazeposencnn.so"
+    }
+  },
+  "toolchains": {
+    "3852329895": {
+      "cppCompilerExecutable": "C:\\Android\\sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

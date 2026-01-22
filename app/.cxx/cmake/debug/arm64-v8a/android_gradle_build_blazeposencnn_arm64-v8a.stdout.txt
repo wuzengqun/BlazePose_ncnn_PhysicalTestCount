@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\wzq\AndroidStudioProjects\ncnn_Android_BlazePose-main\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

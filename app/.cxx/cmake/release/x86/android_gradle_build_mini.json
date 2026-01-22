@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\abis.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\opencv-mobile-4.5.4-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Android\\sdk\\ndk\\27.0.12077973\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\src\\main\\jni\\ncnn-20220216-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "blazeposencnn-Release-x86": {
+      "artifactName": "blazeposencnn",
+      "buildCommand": "C:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\.cxx\\cmake\\release\\x86\" blazeposencnn",
+      "abi": "x86",
+      "output": "C:\\Users\\wzq\\AndroidStudioProjects\\ncnn_Android_BlazePose-main\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libblazeposencnn.so"
+    }
+  }
+}

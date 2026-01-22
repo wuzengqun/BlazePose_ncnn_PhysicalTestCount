@@ -1,0 +1,23 @@
+# ninja log v5
+15	76	790436732	CMakeFiles/blazeposencnn.dir/filter/low_pass_filter.cpp.o	15eec08e499c5dc8
+7	512	790436732	CMakeFiles/blazeposencnn.dir/filter/landmark_smoothing_filter.cpp.o	3e35b0afb5467b68
+24	121	790436732	CMakeFiles/blazeposencnn.dir/filter/time_stamp.cpp.o	d447d57b3bd72783
+33	240	790436732	CMakeFiles/blazeposencnn.dir/filter/one_euro_filter.cpp.o	62551cc619fba71f
+11	614	790436732	CMakeFiles/blazeposencnn.dir/ndkcamera.cpp.o	55ac9c1d4556000d
+29	290	790436732	CMakeFiles/blazeposencnn.dir/filter/relative_velocity_filter.cpp.o	23900e8a7efa3e7b
+20	623	790436733	CMakeFiles/blazeposencnn.dir/landmark.cpp.o	f7d42d06790e77a9
+2	570	790609676	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+2	826	790609580	CMakeFiles/blazeposencnn.dir/blazepose.cpp.o	14db32993ccfee9b
+570	1022	790609676	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
+2	621	790609708	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+621	1092	790609708	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
+1	705	790609716	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+705	1164	790609717	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
+1	577	790609752	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+577	1032	790609752	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
+2	618	790609769	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+618	1092	790609770	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
+2	606	790609800	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+606	1081	790609800	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
+2	593	790609836	CMakeFiles/blazeposencnn.dir/blazeposencnn.cpp.o	7bf6bf2238380f9a
+593	1039	790609837	C:/Users/wzq/AndroidStudioProjects/ncnn_Android_BlazePose-main/app/build/intermediates/cmake/debug/obj/arm64-v8a/libblazeposencnn.so	988a7441138f87b9
